@@ -1,0 +1,6 @@
+@HCLSpro_HostAddress = http://localhost:5268
+
+GET {{HCLSpro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
